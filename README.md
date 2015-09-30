@@ -5,7 +5,7 @@ After defeating the evil snow leopard Tai Lung, our favorite kung fu panda maste
 This is a Python tutorial for cleaning and analyzing the Yelp Data Challenge dataset with Pandas and other Python machine learning tools
 
 ### The Dataset
-We will be using a dataset of Yelp reviews provided by the Yelp Dataset Challenge. The download consists of the following files in JSON format:
+We will be using a dataset of Yelp reviews provided by the [Yelp Dataset Challenge](http://www.yelp.com/dataset_challenge). The download consists of the following files in JSON format:
 * business.json - information on businesses
 * review.json - text and metadata of reviews
 * tip.json - text and metadata of tips
