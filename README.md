@@ -20,3 +20,5 @@ This tutorial will walk you through doing some basic data cleaning and explorato
 * [seaborn](http://stanford.edu/~mwaskom/software/seaborn/), for making plots pretty
 * [statsmodels](http://statsmodels.sourceforge.net/), for statistical analysis
 * [sklearn](http://scikit-learn.org), for machine learning
+
+Follow-up tutorials on NLP, sentiment analysis, and more coming soon!
